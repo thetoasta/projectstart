@@ -13,6 +13,6 @@ module.exports = {
 	.setDefaultMemberPermissions(PermissionFlagsBits.BanMembers),
 	async execute(interaction) {
         const user = interaction.options.getUser('target');
-guild.members.ban(user);
+        guild.members.ban(user);
 	},
 };
