@@ -37,4 +37,5 @@ for (const file of eventFiles) {
 	}
 }
 
+console.log('The bot has turned on, bot it is in a beta state.')
 client.login(token);
