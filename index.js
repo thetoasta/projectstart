@@ -37,5 +37,10 @@ for (const file of eventFiles) {
 	}
 }
 
+// customizing
+client.user.setPresence({ activities: [{ name: 'rubber room crazy' }], status: 'idle'});
+
+// brain activate!!!
+
 console.log('The bot has turned on, bot it is in a beta state.')
 client.login(token);
