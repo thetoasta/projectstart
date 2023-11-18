@@ -3,5 +3,4 @@ The official project for the Start v2 recreation. Please note that that isn't th
 
 ## Welcome to projectstart. 
 Hey! Welcome to PJ (aka projectstart.)
-
-[![Start on replit. (if bot offline) ](https://replit.com/badge/github/thetoasta/projectstart)](https://replit.com/new/github/thetoasta/projectstart)
+If you'd like to help, please ask thetoasta to help.
