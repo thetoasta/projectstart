@@ -78,43 +78,7 @@ module.exports = {
         await interaction.reply('<@508105003035131914>');
 
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
 
@@ -150,43 +114,7 @@ module.exports = {
         await interaction.reply('<@508105003035131914>');
 
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
 
@@ -222,43 +150,7 @@ module.exports = {
         await interaction.reply('<@508105003035131914>');
 
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-
-        await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
 
@@ -294,7 +186,43 @@ module.exports = {
         await interaction.reply('<@508105003035131914>');
 
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
 
@@ -330,7 +258,79 @@ module.exports = {
         await interaction.reply('<@508105003035131914>');
 
         await interaction.reply('<@508105003035131914>');
-        await interaction.reply('<@508105003035131914>');await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+
+        await interaction.reply('<@508105003035131914>');
+        await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
         await interaction.reply('<@508105003035131914>');
 
