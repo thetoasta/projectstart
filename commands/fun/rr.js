@@ -9,3 +9,4 @@ module.exports = {
         await interaction.reply('yeah i was crazy)')
 	},
 };
+console.log('command: rubberroom (/commands/fun/rr.js)')

@@ -9,3 +9,5 @@ module.exports = {
         interaction.Reply(`Roundtrip latency: ${sent.createdTimestamp - interaction.createdTimestamp}ms`);
 	},
 };
+
+console.log('command: botping (/commands/fun/botping.js')

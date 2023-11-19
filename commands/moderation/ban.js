@@ -16,3 +16,5 @@ module.exports = {
         guild.members.ban(user);
 	},
 };
+
+console.log('command: ban (/commands/moderation/ban.js')

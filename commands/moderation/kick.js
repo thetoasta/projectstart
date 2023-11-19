@@ -16,3 +16,4 @@ module.exports = {
         member.kick();
 	},
 };
+console.log('command: kick (/commands/moderation/kick.js)')

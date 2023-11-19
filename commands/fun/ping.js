@@ -8,3 +8,5 @@ module.exports = {
 		await interaction.reply('Pong!');
 	},
 };
+
+console.log('command: ping (/commands/fun/ping.js')
